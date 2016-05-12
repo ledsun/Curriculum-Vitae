@@ -5,6 +5,8 @@ HTML, CSS, JavaScriptを使ったUI実装を今までやってきました。
 
 ## 基本情報
 
+|key|value|
+|---|-----|
 |Name|久保田翔太|
 |Birth|1989/10/11|
 |Website|[blog.kubosho.com](http://blog.kubosho.com/)|
