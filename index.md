@@ -12,8 +12,8 @@ HTML, CSS, JavaScriptを使ったUI実装を今までやってきました。
 |Website|[blog.kubosho.com](http://blog.kubosho.com/)|
 |Twitter|[@kubosho_](https://twitter.com/kubosho_)|
 |Qiita|[kubosho_](http://qiita.com/kubosho_)|
-|SlideShare|[kubosho_](http://www.slideshare.net/kubosho)|
-|Speakerdeck|[kubosho_](https://speakerdeck.com/kubosho)|
+|SlideShare|[kubosho](http://www.slideshare.net/kubosho)|
+|Speakerdeck|[kubosho](https://speakerdeck.com/kubosho)|
 
 ## スキル
 
