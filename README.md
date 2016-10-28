@@ -30,7 +30,6 @@
 
 ### フレームワーク
 
-- Electron
 - React, Flux Architecture (主にfacebook/flux)
   - [自作Twitterクライアント](https://github.com/kubosho/noisy)にて使用
 - Angular (v1, v2)
@@ -41,6 +40,8 @@
 
 ### その他
 
+- Electron
+  - [自作Twitterクライアント](https://github.com/kubosho/noisy)にて使用
 - CI設定
   - Travis CI上でテストを実行した後に、カバレッジを測定したり、gh-pagesにデプロイができる
 - ユニットテスト
@@ -53,12 +54,10 @@
 - CSSのセレクタ・ディレクトリ設計
 - 気になったものを概念だけではなく、実際に触って思想や何を解決するのか知ろうとするところ
 
-## これから伸ばしていきたいと思っている箇所
+## これからやりたいと思っている箇所
 
 - API設計
 - サーバー構築・データベース設計
-  - 2017年にisuconの決勝にでられることを目標としています
-  - 最終的にはトップ3を狙います
 
 ## 執筆歴
 
