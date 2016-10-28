@@ -18,11 +18,15 @@
 - HTML
 - Jade, Razor
 - CSS, Sass, LESS, PostCSS
-- JavaScript, TypeScript
+- ECMAScript 2016+, CoffeeScript, TypeScript
 - C# (a bit)
-- English
-  - 英語で書かれた記事やドキュメントをGoogle翻訳や辞書を使いつつ読む程度
 - 日本語
+  - ネイティブ
+- English
+  - 英語で書かれた記事やドキュメントをGoogle翻訳や辞書を使いつつ読む
+  - かんたんなEnglishで会話できる
+- 北京語
+  - 自己紹介ができる
 
 ### フレームワーク
 
