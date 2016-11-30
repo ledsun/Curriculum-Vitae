@@ -3,7 +3,7 @@
 ## 基本情報
 
 |key|value|
-|---|-----|
+|---|----|
 |Name|久保田翔太 (Shota Kubota)|
 |Blog|[blog.kubosho.com](http://blog.kubosho.com/)|
 |Twitter|[@kubosho_](https://twitter.com/kubosho_)|
@@ -15,46 +15,66 @@
 
 ### 言語
 
-- HTML
-- Jade, Razor
-- CSS, Sass, LESS, PostCSS
-- ECMAScript 2016+, CoffeeScript, TypeScript
-- C# (a bit)
-- 日本語
-  - ネイティブ
-- English
-  - 英語で書かれた記事やドキュメントをGoogle翻訳や辞書を使いつつ読む
-  - かんたんなEnglishで会話できる
-- 北京語
-  - 自己紹介ができる
+|自然言語|備考|
+|---|---|
+|日本語|ネイティブ|
+|English|英語で書かれた文書をGoogle翻訳や辞書を使いつつ、だいたいの意味をつかむことができる|
+|北京語|簡単な自己紹介ができる|
 
-### フレームワーク
+|プログラミング言語|備考|
+|---|---|
+|HTML|10年以上の経験|
+|CSS・Sass・LESS・PostCSS|CSSは10年以上の経験|
+|JavaScript, TypeScript|JavaScriptは約4年の経験|
+|C#|ゲーム内のお気に入り機能をレビューしてもらいつつ作れる程度|
 
-- React, Flux Architecture (主にfacebook/flux)
-  - [自作Twitterクライアント](https://github.com/kubosho/noisy)にて使用
-- Angular (v1, v2)
-  - ver 2系は[技術書典サークル参加フォーム](https://techbookfest.org/)にて使用 (主にComponent部分中心)
-  - ver 1系は[Prott](https://prottapp.com/)にて使用
-- KnockoutJS
-  - [神獄のヴァルハラゲート](http://pf.gree.net/58748/)にて使用
+### フレームワーク・ライブラリ
 
-### その他
+使ったことがあるものと、どこで使ったかを一覧にしています
 
-- Electron
-  - [自作Twitterクライアント](https://github.com/kubosho/noisy)にて使用
-- CI設定
-  - Travis CI上でテストを実行した後に、カバレッジを測定したり、gh-pagesにデプロイができる
-- ユニットテスト
-  - 現在はMocha + Karma, AVA, Jestを主に使っています
-- Git
-  - Steins;Gitという「GitをSteins;Gateにたとえて解説する本」を個人的に書きました
+#### Electron・React・facebook/flux
+
+- [自作Twitterクライアント（Noisy）](https://github.com/kubosho/noisy)
+
+#### Angular
+
+- [技術書典サークル参加フォーム](https://techbookfest.org/)
+  - ver 2系（主にComponent部分中心）
+- [Prott](https://prottapp.com/)
+  - ver 1
+
+#### KnockoutJS
+
+- [神獄のヴァルハラゲート](http://pf.gree.net/58748/)
+
+### テンプレートエンジン
+
+#### Jade
+
+- 現職にて使用（Pugではないです）
+
+#### Razor
+
+- 前職にて使用
+
+### バージョン管理
+
+- Gitは[Steins;Git](http://o2project.github.io/steins-git/)という「GitをSteins;Gateにたとえて解説する本」を個人的に書きました
+- SVNとgit-svnも使ったことはありますが、ほぼ忘れました
+
+### テストツール
+
+- Mocha + Karma, AVA, Jestを主に使っています
+
+### CIツール
+
+- Travis CI上でテストを実行した後に、カバレッジを測定したり、gh-pagesにデプロイができます
 
 ## 強み
 
-- CSSのセレクタ・ディレクトリ設計
 - 気になったものを概念だけではなく、実際に触って思想や何を解決するのか知ろうとするところ
 
-## やったことはないが興味があるもの
+## やってみたいもの
 
 - API設計
 - サーバー構築・データベース設計
@@ -82,7 +102,7 @@
 
 ## 職務経歴
 
-### 2016/7 -: 株式会社グッドパッチ
+### 2016/7 - （現在）: 株式会社グッドパッチ
 
 職務: フロントエンドデベロッパー
 
