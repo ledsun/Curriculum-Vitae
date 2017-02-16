@@ -90,6 +90,9 @@
 
 ### 同人
 
+- The Web Explorer 3 (共著 2016/12)
+  - https://techbooster.booth.pm/items/392258
+  - 「CSSのトリックを解きあかすHoudini」の章と「SkateJS で遊ぼう」のレビューを担当
 - The Web Explorer 2 (共著 2016/8)
   - https://techbooster.booth.pm/items/299592
   - 「CSS in JS」の章と「CSS縦横中央揃え天下一武道会」のレビューを担当
