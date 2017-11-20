@@ -5,10 +5,11 @@
 |key|value|
 |---|----|
 |Name|久保田翔太 (Shota Kubota)|
-|Blog|[blog.kubosho.com](http://blog.kubosho.com/)|
+|GitHub|[kubosho](https://github.com/kubosho)|
+|Blog|[blog.kubosho.com](http://blog.kubosho.com)|
 |Twitter|[@kubosho_](https://twitter.com/kubosho_)|
-|Qiita|[kubosho_](http://qiita.com/kubosho_)|
-|SlideShare|[kubosho](http://www.slideshare.net/kubosho)|
+|Qiita|[kubosho_](https://qiita.com/kubosho_)|
+|SlideShare|[kubosho](https://www.slideshare.net/kubosho)|
 |Speakerdeck|[kubosho](https://speakerdeck.com/kubosho)|
 
 ## スキル
@@ -40,7 +41,7 @@
 
 - [技術書典サークル参加フォーム](https://techbookfest.org/)
   - ver 2系（主にComponent部分中心）
-- [Prott](https://prottapp.com/)
+- 某プロトタイピングアプリ
   - ver 1
 
 #### KnockoutJS
@@ -51,11 +52,11 @@
 
 #### Jade
 
-- 現職にて使用（Pugではないです）
+- 前職にて使用（Pugではないです）
 
 #### Razor
 
-- 前職にて使用
+- 前の会社にて使用
 
 ### バージョン管理
 
@@ -105,17 +106,23 @@
 
 ## 職務経歴
 
-### 2016/7 - （現在）: 株式会社グッドパッチ
+### 2017/4 - 現在: CyberAgent / AbemaTV
 
 職務: フロントエンドデベロッパー
 
-#### Prott運用
+- ReduxやMobXを参考にRxJSベースで作られたFluxアーキテクチャベースでの新機能設計・実装
+- Atomic Designに沿ったコンポーネントの設計・作成
+- blue-tapeなどを使ったユニットテストの作成
+- CSS周りの改善をしていきたい
+- a11yの改善をしていきたい
 
-- Think feature spec
-- Implement feature for Prott
-- Improve feature and architecture for Prott
-- Testing of feature (unit test, browser test)
-- CSS architecture redesign
+### 2016/7 - 2017/3: 某Web制作会社
+
+職務: フロントエンドデベロッパー
+
+#### 自社サービス運用
+
+- 技術的負債との戦い、そして敗北
 
 ### 2013/5 - 2016/7: 株式会社グラニ
 
@@ -147,7 +154,7 @@
 
 - HTML, CSS, JavaScript（jQuery）を使用した複数キャンペーンサイトの新規開発
 
-### 2008/4 - 2010/2: 株式会社CSE
+### 2008/4 - 2010/2: 某SIer
 
 職務: システムエンジニア
 
