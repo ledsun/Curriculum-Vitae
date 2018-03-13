@@ -1,0 +1,23 @@
+{
+  "name": "Curriculum-Vitae",
+  "description": "ledsun's CV.",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/ledsun/Curriculum-Vitae/issues"
+  },
+  "dependencies": {
+    "markdown-pdf": "^8.1.1"
+  },
+  "homepage": "https://github.com/ledsun/Curriculum-Vitae#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ledsun/Curriculum-Vitae.git"
+  },
+  "scripts": {
+    "start": "markdown-pdf README.md -s custom.css -h running.js"
+  }
+}
