@@ -96,19 +96,20 @@
 
 ## 5. 執筆歴（同人誌）
 
-|書名|詳細|
-|---|---|
-|現代Webフロントエンドデザインパターン (2018/04)|<ul><li>68ページ</li><li>技術書典4</li></ul>|
-|受託開発インアクション (2017/10)|<ul><li>28ページ</li><li>技術書典3</li></ul>|
-|デバッグ最速理論 (2017/04)|<ul><li>16ページ</li><li>技術書典2</li></ul>|
-|JMeter クックブック (2014/04)|<ul><li>https://github.com/ledsun/cookbook-of-jmeter</li><li>56 Star</li></ul>|
+|書名|発行日|詳細|
+|---|---|---|
+|現代Webフロントエンドデザインパターン|2018/04|<ul><li>68ページ</li><li>技術書典4</li></ul>|
+|受託開発インアクション|2017/10|<ul><li>28ページ</li><li>技術書典3</li></ul>|
+|デバッグ最速理論|2017/04|<ul><li>16ページ</li><li>技術書典2</li></ul>|
+|JMeter クックブック|2014/04|<ul><li>https://github.com/ledsun/cookbook-of-jmeter</li><li>56 Star</li></ul>|
 
 ## 6. 発表歴
 
-|タイトル|イベント名|
-|---|---|
-|[Test asynchronous functions with RSpec](https://speakerdeck.com/ledsun/test-asynchronous-functions-with-rspec)|Ruby Kaigi 2018 LT
-|[忍者式テストをやってみた](https://www.slideshare.net/ledsun1/03-39903732)|とてか03 招待講演
+|タイトル|イベント名|日付|
+|---|---|---|
+|[10倍速いNode.js並列プログラミング](https://speakerdeck.com/ledsun/10bei-su-inode-dot-jsbing-lie-puroguramingu)|Node学園 31時限目 LT|2017/07
+|[Test asynchronous functions with RSpec](https://speakerdeck.com/ledsun/test-asynchronous-functions-with-rspec)|Ruby Kaigi 2018 LT|2017/06
+|[忍者式テストをやってみた](https://www.slideshare.net/ledsun1/03-39903732)|とてか03 招待講演|2014/10
 
 ## 7. 職務経歴
 
