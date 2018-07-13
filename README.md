@@ -1,4 +1,4 @@
-<span style="float: right;">2018年2月28日</span>
+<span style="float: right;">2018年7月13日</span>
 
 # 職務経歴書
 
@@ -39,14 +39,14 @@
 <br>
 
 #### プログラミング言語
-|言語|詳細|
-|---|---|
-|JavaScript|約5年の経験。ブラウザ向けのフレームワークを使ったプログラミング、PureJSを用いたプログラミング、Node.js向けのプログラミングができる|
-|C#|ASP.NETを使ったWebアプリケーションの作成、WPFを使ったデスクトップアプリケーションの作成ができる。[ADO.Netを使ったMicro-ORM](https://github.com/ledsun/Alhambra)の実装ができる|
-|Ruby|1年強。Ruby on Rails/Sinatraを使ってWebアプリケーションが作れる。EventMachineを使って非同期処理を実装できる|
-|CSS・Sass・LESS|CSSは5年以上の経験。BEMを使ったCSS設計ができる|
-|HTML|5年以上の経験|
-|Java|3年の経験。Webアプリケーションフレームワークを使ってWebアプリケーションが実装できる|
+|言語|経験年数|詳細|
+|---|----|---|
+|JavaScript|5年|ブラウザ向け、Node.js向けを問わずプログラミングできる|
+|Ruby|2年|Ruby on Rails/Sinatraを使ってWebアプリケーションが作れる。EventMachineを使って非同期処理を実装できる。スレッド使った並列処理を実装できる|
+|C#|5年|ASP.NETを使ったWebアプリケーションの作成、WPFを使ったデスクトップアプリケーションの作成ができる。[ADO.Netを使ったMicro-ORM](https://github.com/ledsun/Alhambra)の実装ができる|
+|Java|3年|Webアプリケーションフレームワークを使ってWebアプリケーションが実装できる|
+|CSS・Sass・LESS|5年|BEMを使ったCSS設計ができる|
+|HTML|10年|HTML5を使ったマークアップができる|
 
 ### 2) フレームワーク・ライブラリ使用経験
 
@@ -76,7 +76,7 @@
 
 - Git
 - SVN
-- CSV
+- CVS
 
 ### 5) テストツール
 
@@ -84,9 +84,13 @@
 - AVA
 - RSpec
 
-### 6) CIツール
+### 6) 資格
 
-- CircleCI 2.0 の設定ができます
+|資格名称|取得年|
+|---|---|
+|Ruby Association Certified Ruby Programmer Gold version 2.1|2018年|
+|TOEIC 745点|2017年|
+|ソフトウェア開発技術者|2003年|
 
 
 ## 4. やりたいこと
